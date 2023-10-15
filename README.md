@@ -1,1 +1,0 @@
-# equalizer-landing-page
