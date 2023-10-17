@@ -1,0 +1,127 @@
+
+
+
+.bgpat {
+  margin-left: 20em;
+}
+
+.bg-pattern-1 {
+  margin-left: 73em;
+  
+}
+
+header {
+  margin-top: 5em;
+  margin-left: 10em;
+  font-weight: 590;
+  font-size: 1.5rem;
+}
+
+.bg-pattern-1 {
+  margin-bottom: -10em;
+  margin-left: 60em;
+  width: 40%;
+}
+
+.black-bg {
+  width: 1000px;
+  height: 700px;
+  margin-top: -20em;
+  margin-left: 15em;
+  background-color: black;
+  border-radius: 25px;
+  z-index: -2;
+}
+
+.container {
+  display: block;
+  margin-top: 5em;
+  margin-left: 15em;
+  margin-bottom: 5em;
+}
+
+.top-section {
+  font-size: 4rem;
+  font-weight: 550;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+
+}
+
+.bottom-section {
+  font-size: 1rem;
+  width: 50%;
+}
+
+.ill-app {
+  width: 70rem;
+  margin-top: 8em;
+  margin-left: 20em;
+}
+
+.bottom-container {
+  background-color: darkorange;
+  color: white;
+  display: flexbox;
+  width: min-content;
+  margin-top: -35em;
+  margin-left: 60em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  border-radius: 25px;
+}
+
+.bottom-container-1 {
+  font-size: 2rem;
+  padding: 1em;
+  margin-left: -1em;
+}
+
+.bottom-container-2 {
+  line-height: 2rem;
+  
+}
+
+.num {
+  margin-top: 2em;
+}
+
+.num span {
+  font-size: 2rem;
+  font-weight: 550;
+}
+
+.btn-container {
+  display: flexbox;
+  flex-direction: column;
+  width: 100%;
+}
+
+.btn-1 {
+  background-color: black;
+  color: white;
+  margin-top: 2em;
+  width: 100%;
+  padding: .75em;
+  border-radius: 10px;
+}
+
+.btn-2 {
+  background-color: white;
+  color: black;
+  margin-top: 2em;
+  width: 100%;
+  padding: .75em;
+  border-radius: 10px;
+}
+
+
+
+body {
+  background-image: url(./starter-code/assets/bg-main-desktop.png);
+  background-size: cover;
+}
+
+
+
